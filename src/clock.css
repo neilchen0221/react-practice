@@ -1,0 +1,41 @@
+.clock {
+  background-color: #fd8961;
+  color: white;
+  width: 400px;
+  margin: 30px;
+}
+
+.clock__date {
+  background-color: #e87f5a;
+  font-size: 24px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.clock__time {
+  padding: 80px 30px;
+  display: flex;
+}
+
+.clock__time-square {
+  background-color: #e87f5a;
+  width: 70px;
+  height: 70px;
+  font-size: 30px;
+  line-height: 70px;
+  text-align: center;
+  display: inline-block;
+}
+
+.clock__time-colon {
+  height: 70px;
+  line-height: 70px;
+  width: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.clock__time-square:first-child {
+  margin-left: 0;
+}

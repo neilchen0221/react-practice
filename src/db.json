@@ -1,0 +1,14 @@
+{
+  "toDos": [
+    {
+      "id": 1,
+      "text": "Go shopping",
+      "isComplete": false
+    },
+    {
+      "id": "a9181b13-27c3-4dfa-8f40-0764c6646a01",
+      "text": "Buy something",
+      "isComplete": false
+    }
+  ]
+}
